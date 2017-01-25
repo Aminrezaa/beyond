@@ -20,8 +20,8 @@ Professional Self-Bot Based On NEW TG-CLI
 ```sh
 # Let's install the self-bot.
 cd $HOME
-git clone https://github.com/BeyondTeam/Self-BotV2.git
-cd Self-BotV2
+git clone https://github.com/Aminrezaa/beyond.git
+cd beyond
 chmod +x beyond.sh
 ./beyond.sh install
 ./beyond.sh # Enter a phone number & confirmation code.
