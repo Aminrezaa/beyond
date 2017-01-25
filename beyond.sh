@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/Self-BotV2
+cd $HOME/beyond
 install() {
 	    cd tg
 		sudo add-apt-repository ppa:ubuntu-toolchain-r/test
